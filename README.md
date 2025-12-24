@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amanuel Ayalew</h1>
 <h3 align="center">A passionate UX Designer & Software Engineer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [Fenan Pay](https://fenanpay.com/)
+- 🔭 I’m currently working on [Aquila Ict Solution/Fenan Pay](https://fenanpay.com/)
 
 - 🌱 I’m currently learning **React • Next.js • Laravel • Node.js • UI Systems • Product Design Strategy**
 
